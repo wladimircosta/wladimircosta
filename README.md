@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Mais de 16 anos de carreira em TI, com passagem por AWS e Azure. Nos últimos 6 anos, meu foco é AWS — arquitetando soluções para empresas de grande porte do setor bancário/financeiro, à frente de migrações, modernização e pré-vendas técnicas e comerciais. Fui responsável por parcerias AWS-Microsoft, implementando os programas MMP e OLA da AWS.
+Mais de 16 anos de carreira em TI, com passagem por AWS e Azure. Nos últimos 6 anos, meu foco é AWS — arquitetando soluções para empresas de grande porte do setor bancário/financeiro, à frente de migrações, modernização e pré-vendas técnicas e comerciais. Fui responsável por parcerias AWS-Microsoft, implementando os programas MAP e OLA da AWS.
 
 ## Experiência em destaque
 
