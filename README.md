@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou Wladimir Costa
 
-<!--
-**wladimircosta/wladimircosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Solutions Architect – Pre-Sales**, com foco em nuvem AWS e Infraestrutura como Código (Terraform).
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo na interface entre necessidades de negócio e arquitetura técnica, ajudando organizações a desenhar e validar soluções em AWS antes da adoção — com experiência prática de implementação em projetos de automação de infraestrutura.
+
+## Experiência em destaque
+
+**AWS Control Tower / Account Factory for Terraform (AFT)**
+Implementação e customização das quatro camadas do AFT — *Account Request*, *Account Provisioning Customizations*, *Account Customizations* e *Global Customizations* — viabilizando o provisionamento padronizado e repetível de contas AWS em escala, para múltiplas contas e ambientes.
+Veja o repositório: [terraform-aft-account-provisioning-customizations](https://github.com/wladimircosta/terraform-aft-account-provisioning-customizations)
+
+## Stack
+
+`Terraform` · `AWS Organizations` · `AWS Control Tower` · `AFT` · `IAM`
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+
+---
+
+*Repositórios de estudo e forks de tutoriais foram mantidos separados do trabalho profissional listado acima.*
