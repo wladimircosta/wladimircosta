@@ -4,11 +4,11 @@
 
 ## Sobre mim
 
-Mais de 16 anos de carreira em TI, com passagem por AWS e Azure. Nos últimos 6 anos, meu foco é AWS — arquitetando soluções para empresas de grande porte do setor bancário/financeiro, à frente de migrações, modernização e pré-vendas técnicas e comerciais. Fui responsável por parcerias AWS-Microsoft, implementando os programas MMP (Microsoft Modernization Program) e OLA da AWS.
+Mais de dezoito anos de carreira em TI, com passagem por AWS e Azure. Nos últimos seis anos, meu foco é voltado para AWS — arquitetando soluções para empresas de grande porte do setor bancário/financeiro, à frente de migrações, modernização e pré-vendas técnicas e comerciais. Fui responsável por parcerias AWS-Microsoft, implementando os programas MMP (Microsoft Modernization Program) e OLA da AWS.
 
 ## Experiência em destaque
 
-**Arquitetura Cloud AWS (setor bancário/financeiro, últimos 6 anos)**
+**Arquitetura Cloud AWS (setor bancário/financeiro, últimos seis anos)**
 Arquitetura de soluções em nuvem AWS, incluindo parcerias de migração Microsoft → AWS, projetos de transformação digital, FinOps e pré-vendas técnicas e comerciais, para empresas de grande porte do setor bancário/financeiro. Condução de treinamentos Immersion Day para clientes e equipes internas.
 
 **Migrações e modernização multicloud/híbrida**
